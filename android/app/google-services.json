@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868804646609",
+    "project_id": "apollo-ins",
+    "storage_bucket": "apollo-ins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868804646609:android:979c7ae7d3079eabc657f0",
+        "android_client_info": {
+          "package_name": "apollo.ins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlRJ_9SAFfZ7BFJ3txhZiMQizomkjVSH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

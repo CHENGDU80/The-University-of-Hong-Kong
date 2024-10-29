@@ -1,0 +1,17 @@
+const brandModels = [
+  "Han EV",
+  "Tang EV",
+  "Song EV",
+  "Dolphin",
+  "Yuan EV",
+  "Seagull",
+  "Tang PHEV",
+  "Song PHEV",
+  "Qin Plus PHEV",
+  "e2 PHEV",
+  "F3",
+  "L3",
+  "S6",
+  "eBus",
+  "eTruck",
+];
